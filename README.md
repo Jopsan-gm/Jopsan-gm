@@ -1,29 +1,37 @@
-# 👋 Hi, I'm Jopsan
+# 👋 Hi, I'm Jopsan  
 
-## 🚀 About Me
-- 🔭 Currently contributing to **Open Source projects**
-- 🌱 Learning **React, Node.js, and GitHub Actions**
-- 👯 Looking to collaborate on **web development and educational software projects**
-- 📫 Reach me at: **jopsan18@gmail.com**
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jopsan-gm&background=0D1117&border=FFFFFF&stroke=1E90FF&ring=FFD700&fire=FFD700&currStreakLabel=1E90FF&sideNums=FFD700&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jopsan-gm&show_icons=true&title_color=FFD700&icon_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopsan-gm&layout=compact&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
-</p>
+## 🚀 About Me  
+- 🛠️ Currently contributing to **Open Source projects**  
+- 📚 Learning **React, Node.js, and GitHub Actions**  
+- 🤝 Looking to collaborate on **web development and educational software projects**  
+- 📩 Reach me at: [jopsan18@gmail.com](mailto:jopsan18@gmail.com)  
 
 ---
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge)
+## 📊 GitHub Stats  
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Jopsan-gm&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Jopsan-gm&theme=dark&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 🛠️ Technologies & Tools  
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
