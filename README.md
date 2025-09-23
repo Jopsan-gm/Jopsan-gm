@@ -4,7 +4,7 @@
 - 🛠️ Currently contributing to **Open Source projects**  
 - 📚 Learning **React, Node.js, and GitHub Actions**  
 - 🤝 Looking to collaborate on **web development and educational software projects**  
-- 📩 Reach me at: [jopsan18@gmail.com](mailto:jopsan18@gmail.com)  
+
 
 ---
 
