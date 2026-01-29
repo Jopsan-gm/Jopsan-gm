@@ -20,7 +20,7 @@ I value simplicity, good architecture, and continuous improvement through hands-
 - **Learning:** Deepening my knowledge of React, TypeScript, backend fundamentals, and automation with GitHub Actions  
 - **Collaborating:** Contributing to open source and exploring projects related to education and web tools  
 - **Building:** Actively developing **Offer-Hub**, a full stack platform focused on improving how users discover and manage offers  
-
+ 
 ---
 
 ## 📊 GitHub Activity
