@@ -1,4 +1,4 @@
-<!-- Banner -->  
+<!-- Banner -->    
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=120&section=header&text=Full%20Stack%20Developer%20in%20Progress&fontColor=ffffff&fontSize=28" />
  
 # Hi, I'm Jopsan 👋  
