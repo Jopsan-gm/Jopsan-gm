@@ -22,7 +22,7 @@ I value simplicity, good architecture, and continuous improvement through hands-
 - **Building:** Actively developing **Offer-Hub**, a full stack platform focused on improving how users discover and manage offers  
  
 ---
-
+ 
 ## 📊 GitHub Activity
 
 <div align="center">
